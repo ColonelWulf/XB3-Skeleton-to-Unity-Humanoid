@@ -43,3 +43,4 @@ for x in ReparentTable:
     DB = CurrentArmature.edit_bones.get(x[1])
     if CB and DB:
         CB.parent = DB
+        
