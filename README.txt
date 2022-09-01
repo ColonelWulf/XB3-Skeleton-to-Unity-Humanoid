@@ -1,0 +1,1 @@
+Use Blender Scripting while in Edit mode on the Armature
